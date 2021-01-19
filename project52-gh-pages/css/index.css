@@ -1,0 +1,21 @@
+@media(max-width:768px) {
+	.sidebar {
+		display: none;
+	}
+}
+
+.continue-reading: {
+	margin-top: 50px;
+}
+
+.post-wrapper {
+	min-height: 100%;
+}
+
+.social-media a:hover {
+	text-decoration: none;
+}
+
+.feedback a:hover {
+	text-decoration: none;
+}

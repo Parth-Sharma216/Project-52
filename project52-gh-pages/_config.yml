@@ -1,0 +1,6 @@
+name: Project 52
+markdown: redcarpet
+pygments: true
+baseurl: /
+safe: true
+lsi: false
